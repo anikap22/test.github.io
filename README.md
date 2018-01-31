@@ -1,7 +1,7 @@
 ## Anika's Page
 
 I am studying  biogeochemistry of temperate forests in Duncan Menge's lab. 
-:deciduous_tree:
 
 I primarily do statistical and theoretical modeling 
-:chart_with_upwards_trend:
+
+![alt text](https://www.birdlife.org/sites/default/files/styles/1600/public/bialowieza_forest_c_tomasz_wilk_0.jpg?itok=iXRoJtoL)
