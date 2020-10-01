@@ -7,4 +7,4 @@ I primarily do statistical and theoretical modeling
 ![alt text](https://www.birdlife.org/sites/default/files/styles/1600/public/bialowieza_forest_c_tomasz_wilk_0.jpg?itok=iXRoJtoL)
 
 import chart_studio.tools as tls
-tls.get_embed('https://https://anikap22.github.io/malaria_asia.html') #change to your url
+tls.get_embed('https://anikap22.github.io/malaria_asia.html') #change to your url
