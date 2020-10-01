@@ -8,3 +8,5 @@ I primarily do statistical and theoretical modeling
 
 import chart_studio.tools as tls
 tls.get_embed('https://anikap22.github.io/malaria_asia.html') #change to your url
+
+<iframe id="igraph" scrolling="no" style="border:none;" seamless="seamless" src="https://anikap22.github.io/malaria_asia.html" height="525" width="100%"></iframe>
