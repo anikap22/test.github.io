@@ -1,1 +1,16 @@
 theme: jekyll-theme-cayman
+
+title: Thalweg Data Science
+email: anika.petach@gmail.com
+description: >- # this means to ignore newlines until "baseurl:"
+  Passionate about messy data, writing code, and fitting interesting models.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+linkedin_username: anika-staccone
+github_username:  anikap22
+
+# Build settings
+theme: jekyll-theme-cayman
+# theme: minima
+plugins:
+  - jekyll-feed
