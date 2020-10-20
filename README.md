@@ -1,6 +1,6 @@
 ## Anika's Page
 
-I am studying  biogeochemistry of temperate forests in Duncan Menge's lab. 
+This is the repo for my portfolio site.
 
 I primarily do statistical and theoretical modeling 
 
